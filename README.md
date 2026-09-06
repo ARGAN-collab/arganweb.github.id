@@ -1,7 +1,7 @@
 <div align="center">
   
-  # [JEMORA.ID] 
-  ### [Platform Lelang Online yang Mudah, Transparan, dan Terpercaya]
+  # JEMORA.ID
+  ### Platform Lelang Online yang Mudah, Transparan, dan Terpercaya
   
   [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-success?style=for-the-badge)](https://[URL_DEMO])
   [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://[URL_REPO])
