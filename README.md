@@ -120,27 +120,27 @@ Jemora.id merupakan konsep platform lelang online yang dirancang untuk membantu 
 
 #### Frontend
 ```
-Framework    : React / Next.js / Vue / dll
-UI Library   : Tailwind CSS / Material-UI / Chakra UI / dll
-State Mgmt   : Redux / Zustand / Context API / dll
-Validation   : Zod / Yup / React Hook Form / dll
+Framework    : -
+UI Library   : -
+State Mgmt   : -
+Validation   : -
 ```
 
 #### Backend
 ```
-Runtime      : Node.js / Bun / Deno / dll
-Framework    : Express / Fastify / Hono / dll
-Database     : PostgreSQL / MongoDB / MySQL / dll
-ORM          : Prisma / Drizzle / TypeORM / dll
-Auth         : JWT / NextAuth / Clerk / dll
+Runtime      : -
+Framework    : -
+Database     : MySQL
+ORM          : -
+Auth         : -
 ```
 
 #### DevOps & Tools
 ```
-Deployment   : Vercel / Netlify / Railway / dll
-CI/CD        : GitHub Actions / Vercel / dll
-Testing      : Jest / Vitest / Playwright / dll
-Monitoring   : Sentry / LogRocket / dll
+Deployment   : -
+CI/CD        : -
+Testing      : -
+Monitoring   : -
 ```
 
 ### Alasan Pemilihan Teknologi
@@ -194,12 +194,12 @@ Perintah tersebut akan membaca `composer.json` dan `composer.lock`, kemudian mem
 ```
 
 ---
+```
 
 ## 🏗️ Arsitektur Sistem
 
 ### System Architecture
 
-```mermaid
 flowchart TB
 
     %% =========================
@@ -379,7 +379,7 @@ Untuk proses verifikasi email pada registrasi pengguna, sistem menggunakan **PHP
 
 
 
-
+```
 ### Database Schema
 
     USER ||--o| PROFIL : memiliki
@@ -554,7 +554,7 @@ Untuk proses verifikasi email pada registrasi pengguna, sistem menggunakan **PHP
 
 ```
 ### Folder Structure
-
+```
 api2-jemora.id.com/
 │
 ├── admin/
@@ -648,7 +648,7 @@ api2-jemora.id.com/
 ## ⚙️ Instalasi & Setup
 
 ## Persyaratan Sistem
-
+```
 Sebelum menjalankan Jemora.id, pastikan perangkat telah memiliki:
 
 PHP — untuk menjalankan aplikasi berbasis PHP.
