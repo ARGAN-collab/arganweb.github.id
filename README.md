@@ -5,8 +5,21 @@
   
   [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-success?style=for-the-badge)](https://iosmana.site/api2-jemora.id.com/halaman_utama)
   [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://[URL_REPO])
+  ```
+## 🔗 GitHub
+
+Source code **Jemora.id** tidak dipublikasikan pada platform GitHub. Repository GitHub tidak disediakan karena source code proyek digunakan secara internal untuk keperluan pengembangan dan demonstrasi dalam **ITECHNO CUP 2026**.
+
+Oleh karena itu, bagian **Repository** dan **GitHub** pada proyek ini tidak memiliki tautan publik.
+```
+
   [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-  
+  ```
+  ## 📄 Lisensi
+
+Proyek **Jemora.id** belum menggunakan lisensi open-source tertentu dan source code tidak dipublikasikan secara terbuka di GitHub. Proyek ini dibuat untuk keperluan pengembangan dan demonstrasi dalam **ITECHNO CUP 2026**.
+
+  ```
   **Submission for ITECHNO CUP 2026 - Web Development**
   
   **By Revorse**
