@@ -93,7 +93,7 @@ Jemora.id merupakan konsep platform lelang online yang dirancang untuk membantu 
 
 ### Live Demo
 
-🔗 **Kunjungi Website(iosmana.site/api2-jemora.id.com/halaman_utama)**
+🔗 **Kunjungi Website(https://iosmana.site/api2-jemora.id.com/halaman_utama)**
 
 ### Screenshot Aplikasi
 
