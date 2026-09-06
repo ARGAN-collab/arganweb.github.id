@@ -98,7 +98,7 @@ Jemora.id merupakan konsep platform lelang online yang dirancang untuk membantu 
 ### Screenshot Aplikasi
 
 <div align="center">
-  <img src="URL_SCREENSHOT_1" alt="Homepage" width="800"/>
+  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/ce8fda4c7c17d3895ebc097ed2a33cae8d6b5a19/homepage1.jpeg" alt="Homepage" width="800"/>
   <p><em>Homepage - Tampilan utama aplikasi</em></p>
 
   <img src="URL_SCREENSHOT_1" alt="Homepage" width="800"/>
