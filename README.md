@@ -101,48 +101,48 @@ Jemora.id merupakan konsep platform lelang online yang dirancang untuk membantu 
   <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/ce8fda4c7c17d3895ebc097ed2a33cae8d6b5a19/homepage1.jpeg" alt="Homepage" width="200"/>
   <p><em>Homepage - Tampilan utama aplikasi</em></p>
 
-  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/homepage2.jpeg" alt="Homepage" width="100"/>
+  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/homepage2.jpeg" alt="Homepage" width="200"/>
   <p><em>Homepage - Tampilan utama aplikasi</em></p>
 
-  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/homepage3.jpeg" alt="Homepage" width="250"/>
+  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/homepage3.jpeg" alt="Homepage" width="200"/>
   <p><em>Homepage - Tampilan utama aplikasi</em></p>
 
-  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/homepage4.jpeg" alt="Homepage" width="150"/>
+  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/homepage4.jpeg" alt="Homepage" width="200"/>
   <p><em>Homepage - Tampilan utama aplikasi</em></p>
 
-  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/homepage5.jpeg" alt="Homepage" width="800"/>
+  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/homepage5.jpeg" alt="Homepage" width="200"/>
   <p><em>Homepage - Tampilan utama aplikasi</em></p>
 
-  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/homepage6.jpeg" alt="Homepage" width="800"/>
+  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/homepage6.jpeg" alt="Homepage" width="200"/>
   <p><em>Homepage - Tampilan utama aplikasi</em></p>
   
-  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/homepage6.jpeg" alt="Dashboard" width="800"/>
+  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/homepage6.jpeg" alt="Dashboard" width="200"/>
   <p><em>Dashboard - Panel kontrol pengguna</em></p>
 
-  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/admin2.jpeg" alt="Dashboard" width="800"/>
+  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/admin2.jpeg" alt="Dashboard" width="200"/>
   <p><em>Dashboard - Panel kontrol pengguna</em></p>
 
-  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/pengguna1.jpeg" alt="Dashboard" width="800"/>
+  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/pengguna1.jpeg" alt="Dashboard" width="200"/>
   <p><em>Dashboard - Panel kontrol pengguna</em></p>
 
-  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/pengguna1.jpeg" alt="Dashboard" width="800"/>
+  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/pengguna1.jpeg" alt="Dashboard" width="200"/>
   <p><em>Dashboard - Panel kontrol pengguna</em></p>
 
-  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/pengguna3.jpeg" alt="Dashboard" width="800"/>
+  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/pengguna3.jpeg" alt="Dashboard" width="200"/>
   <p><em>Dashboard - Panel kontrol pengguna</em></p>
 
-  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/pengguna4.jpeg" alt="Dashboard" width="800"/>
+  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/pengguna4.jpeg" alt="Dashboard" width="200"/>
   <p><em>Dashboard - Panel kontrol pengguna</em></p>
   
-  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/pengguna4.jpeg" alt="Feature" width="800"/>
+  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/pengguna4.jpeg" alt="Feature" width="200"/>
   <p><em>Nama Fitur - Deskripsi screenshot</em></p>
 </div>
 
-<img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/fitur2.jpeg" alt="Feature" width="800"/>
+<img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/fitur2.jpeg" alt="Feature" width="200"/>
   <p><em>Nama Fitur - Deskripsi screenshot</em></p>
 </div>
 
-<img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/fitur3.jpeg" alt="Feature" width="800"/>
+<img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/fitur3.jpeg" alt="Feature" width="200"/>
   <p><em>Nama Fitur - Deskripsi screenshot</em></p>
 </div>
 
