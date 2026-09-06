@@ -116,7 +116,7 @@ Jemora.id merupakan konsep platform lelang online yang dirancang untuk membantu 
   <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/homepage6.jpeg" alt="Homepage" width="200"/>
   <p><em>Homepage - Tampilan utama aplikasi</em></p>
   
-  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/homepage6.jpeg" alt="Dashboard" width="200"/>
+  <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/074cb8c8cbede6c28bf1430956aa8d3cf6daae75/admin1.jpeg" alt="Dashboard" width="200"/>
   <p><em>Dashboard - Panel kontrol admin</em></p>
 
   <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/fb795c1a1416a5afd172bc58d7d8720c657b7172/admin1.jpeg" alt="Dashboard" width="200"/>
