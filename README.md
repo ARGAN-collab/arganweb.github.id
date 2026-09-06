@@ -43,7 +43,7 @@
 |------|-------|--------|
 | **Moch.Argani Al-Abror** | Project Lead & Full Stack Developer | GitHub(https://github.com/ARGAN-collab) |
 | **Afwan Maulana Azidan** | Frontend Developer | GitHub(https://github.com/maula-na0857) |
-| **Alzena Lakeisha** | Backend Developer | GitHub(https://github.com/username3) |
+| **Alzena Lakeisha** | Backend Developer | GitHub(https://github.com/zenaze14) |
 
 
 ---
