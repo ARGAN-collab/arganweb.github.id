@@ -100,6 +100,21 @@ Jemora.id merupakan konsep platform lelang online yang dirancang untuk membantu 
 <div align="center">
   <img src="URL_SCREENSHOT_1" alt="Homepage" width="800"/>
   <p><em>Homepage - Tampilan utama aplikasi</em></p>
+
+  <img src="URL_SCREENSHOT_1" alt="Homepage" width="800"/>
+  <p><em>Homepage - Tampilan utama aplikasi</em></p>
+
+  <img src="URL_SCREENSHOT_1" alt="Homepage" width="800"/>
+  <p><em>Homepage - Tampilan utama aplikasi</em></p>
+
+  <img src="URL_SCREENSHOT_1" alt="Homepage" width="800"/>
+  <p><em>Homepage - Tampilan utama aplikasi</em></p>
+
+  <img src="URL_SCREENSHOT_1" alt="Homepage" width="800"/>
+  <p><em>Homepage - Tampilan utama aplikasi</em></p>
+
+  <img src="URL_SCREENSHOT_1" alt="Homepage" width="800"/>
+  <p><em>Homepage - Tampilan utama aplikasi</em></p>
   
   <img src="URL_SCREENSHOT_2" alt="Dashboard" width="800"/>
   <p><em>Dashboard - Panel kontrol pengguna</em></p>
@@ -811,7 +826,7 @@ http://localhost/api2-jemora.id.com/
 ### User Guide
 
 #### Untuk Pengguna Umum
-
+```
 1.**Registrasi/Login**: Pengguna dapat melakukan registrasi untuk membuat akun baru. Setelah memiliki akun, pengguna dapat login untuk mengakses fitur lelang.
 2.**Mencari Barang Lelang**  
    Pengguna dapat menggunakan fitur pencarian untuk menemukan barang lelang
@@ -888,8 +903,9 @@ http://localhost/api2-jemora.id.com/
   dan kondisi website dari sisi pengguna.
 
 ---
-
+```
 ## 📚 API Documentation
+```
 
 Jemora.id tidak menggunakan REST API atau Web API eksternal dalam arsitektur aplikasinya. Sistem dibangun menggunakan PHP Native dengan komunikasi langsung antara aplikasi PHP dan database MySQL/MariaDB.
 
