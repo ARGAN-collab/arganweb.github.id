@@ -1036,8 +1036,3 @@ Lisensi proyek Jemora.id belum ditentukan.
 
 
 
-  **Made with ❤️ by [Nama Tim] for ITECHNO CUP 2026**
-
-  
-</div>
-
