@@ -135,15 +135,15 @@ Jemora.id merupakan konsep platform lelang online yang dirancang untuk membantu 
   <p><em>Dashboard - Panel kontrol pengguna</em></p>
   
   <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/pengguna4.jpeg" alt="Feature" width="200"/>
-  <p><em>Nama Fitur - Deskripsi screenshot</em></p>
+  <p><em>Fitur Pencarian - pada foto tersebut adanya fitur pencari dan juga kategori yang tersedia</em></p>
 </div>
 
 <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/fitur2.jpeg" alt="Feature" width="200"/>
-  <p><em>Nama Fitur - Deskripsi screenshot</em></p>
+  <p><em>Fitur Menu - pada Fitur menu menampilkan bagian navbar ada beranda, lelang live, jadwal, tentang kami, dan juga cara kerja dan beberapa menu lainnya</em></p>
 </div>
 
 <img src="https://github.com/ARGAN-collab/arganweb.github.id/blob/7697d7f838a93d5bfafd2dd2b2df05db3d034be1/fitur3.jpeg" alt="Feature" width="200"/>
-  <p><em>Nama Fitur - Deskripsi screenshot</em></p>
+  <p><em>Penyesuain harga/produk - pada foto tersebut menampilkan beberapa fitur mengenai harga yang diinginkan nama produk, dll</em></p>
 </div>
 
 ### Video Demo
