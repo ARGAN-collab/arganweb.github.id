@@ -1042,7 +1042,7 @@ Lisensi proyek Jemora.id belum ditentukan.
 
 <div align="center">
 
-  **Made with ❤️ by Nama Tim for ITECHNO CUP 2026**
+  **Made with ❤️ by Revorse for ITECHNO CUP 2026**
 
   
 </div>
